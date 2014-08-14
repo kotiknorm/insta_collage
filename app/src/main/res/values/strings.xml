@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InstaCollage</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    
+     <string name="instagram_id">98d6195a0b7747529e6b30ac74adba8d</string>
+    <string name="instagram_secret">6fe63fd99cb1400c8ad6a0f1b0a343c9</string>
+    <string name="APP_ID">449…</string>
+    <string name="callbackurl">http:// …</string>
+    
+    <string name="pageNotFound">Ошибка доступа</string>
+    <string name="addPhoto">Фото добавлено</string>
+    <string name="hintPicker_2">Добавьте четное количество фотографий</string>
+    <string name="hintPicker_1">Добавьте фотографии</string>
+    <string name="maxCountPhotoInCollage">Превышено допустимое количество фотографий</string>
+    <string name="notConnect">Потеряно соединение с сервером</string>
+    <string name="downloadData">Загружаются данные с вашего аккаунта Instagram. Подождите...</string>
+    <string name="searchHint">Поиск</string>
+    <string name="makeCollage">Сделать коллаж</string>
+    <string name="loadPhoto">Загрузка фотографий</string>
+    <string name="loadMail">Обработка изображения</string>
+
+
+    <plurals name="photos_button">
+        <item quantity="zero">Сделать коллаж</item>
+        <item quantity="one">Сделать коллаж из  %1$d фотографии</item>
+        <item quantity="two">Сделать коллаж из  %1$d фотографий</item>
+        <item quantity="few">Сделать коллаж из  %1$d фотографий</item>
+        <item quantity="many">Сделать коллаж из  %1$d фотографий</item>
+        <item quantity="other">Сделать коллаж из  %1$d фотографий</item>
+    </plurals>
+
+
+    <string name="titleMain">Поиск пользователей</string>
+    <string name="titlePhoto">Лента пользователя</string>
+    <string name="titleCollage">Коллаж пользователя</string>
+    <string name="titleIntentMail">Отправить коллаж</string>
+
+    <string name="redMadRobot">redmadrobot</string>
+
+
+
+</resources>
